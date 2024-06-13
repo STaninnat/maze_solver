@@ -1,2 +1,8 @@
-# Third Project
-# maze_solver
+# Third Project => **Maze Solver**
+
+Project for learn Python course
+
+Build a visual interface that draws, solves, and animates a maze in Python. Visualize all the algorithms I've learned.
+
+---Let's start it---
+1. run ```python main.py``` in terminal.
