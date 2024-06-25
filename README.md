@@ -5,4 +5,5 @@ Project for learn Python course
 Build a visual interface that draws, solves, and animates a maze in Python. Visualize all the algorithms I've learned.
 
 ---Let's start it---
-1. run ```python main.py``` in terminal.
+1. Clone this repositories
+2. run ```python main.py``` in terminal.
